@@ -1,4 +1,4 @@
-const modeloVideo = require('../modelos/modeloVideo')
+const modeloVideo = require('../tabelas/modeloVideo')
 
 class Tabelas{
     init(conexao){
